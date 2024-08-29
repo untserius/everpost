@@ -1,10 +1,10 @@
-package com.serius.everpost;
+package com.blogapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EverpostApplicationTests {
+class BlogappApplicationTests {
 
 	@Test
 	void contextLoads() {
